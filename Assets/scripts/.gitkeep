@@ -1,3 +1,0 @@
-# Keep the Assets/scripts directory in the repository
-
-This file exists to ensure the `Assets/scripts/` folder is tracked by git.
